@@ -1,0 +1,17 @@
+========== Portfolio Summary ==========
+Stock: AAPL
+Quantity: 15
+Price per share: 180
+Investment Value: 2700
+--------------------------------------
+Stock: TSLA
+Quantity: 2
+Price per share: 250
+Investment Value: 500
+--------------------------------------
+Stock: GOOGL
+Quantity: 3
+Price per share: 150
+Investment Value: 450
+--------------------------------------
+Total Portfolio Value: 3650
